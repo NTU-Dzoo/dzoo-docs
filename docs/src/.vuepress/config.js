@@ -49,6 +49,8 @@ module.exports = {
     }
   },
 
+  theme: 'vt',
+
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
    */
