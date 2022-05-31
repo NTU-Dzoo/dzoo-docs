@@ -11,7 +11,7 @@ jobs:
       uses: jenkey2011/vuepress-deploy@master
       env:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
-        TARGET_REPO: git@github.com:NTU-Dzoo/dzoo-docs.git
+        TARGET_REPO: NTU-Dzoo/dzoo-docs
         TARGET_BRANCH: master
         BUILD_SCRIPT: cd docs && npm install && npm run build
         BUILD_DIR: src/.vuepress/dist
