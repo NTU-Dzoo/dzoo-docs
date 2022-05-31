@@ -16,7 +16,8 @@ module.exports = {
   head: [
     ['meta', { name: 'theme-color', content: '#3eaf7c' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
-    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }]
+    ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
+    ['meta', { name: 'og:image', content: '/images/default-ogimage.jpg' }]
   ],
 
   /**
@@ -55,7 +56,12 @@ module.exports = {
     '@vuepress/plugin-back-to-top',
     '@vuepress/plugin-medium-zoom',
     ['sitemap', {
-      hostname: 'https://docs.dzoo.ntu.edu.tw'
+      hostname: 'https://docs.dzoo.ntu.edu.tw',
+      exclude: ['/404.html']
+    }],
+    ['seo', {
+      siteTitle: (_, $site) => $site.title,
+      title: ($page, $site) => `${$page.title} | ${$site.title}`
     }]
   ]
 }
