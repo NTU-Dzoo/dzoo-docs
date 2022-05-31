@@ -1,0 +1,19 @@
+{
+  "name": "dzoo-ntu-docs",
+  "version": "0.0.1",
+  "description": "Documentation Site for Dzoo NTU",
+  "main": "index.js",
+  "authors": {
+    "name": "Dzoo NTU",
+    "email": "hello@dzoo.ntu.edu.tw"
+  },
+  "repository": "git@github.com:NTU-Dzoo/dzoo-docs.git",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
