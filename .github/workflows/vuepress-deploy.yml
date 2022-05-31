@@ -13,6 +13,6 @@ jobs:
         ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         TARGET_REPO: git@github.com:NTU-Dzoo/dzoo-docs.git
         TARGET_BRANCH: master
-        BUILD_SCRIPT: npm install && npm run build
+        BUILD_SCRIPT: cd docs && npm install && npm run build
         BUILD_DIR: docs/.vuepress/dist
         CNAME: https://docs.dzoo.ntu.edu.tw
