@@ -49,7 +49,7 @@ module.exports = {
     }
   },
 
-  theme: 'vt',
+  theme: 'antdocs',
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/
