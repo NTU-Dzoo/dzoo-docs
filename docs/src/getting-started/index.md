@@ -8,3 +8,5 @@
 
 ### Dzoo Profile
 您可以使用 **Dzoo Profile** 建立你的個人資料庫，讓大家更認識你。也可以在未來求職，升學時作為你的作品集。
+
+- [建立 Dzoo Profile 教學](/getting-started/user-profile)
