@@ -12,9 +12,15 @@ Dzoo NTU 為 **「國立臺灣大學」** 學生、校友與教職員專屬平�
 
 ## 帳號驗證
 ### 具備臺大身份者
-請使用您的 `g.ntu.edu.tw` 帳號登入 Dzoo NTU。
 
-無 `g.ntu.edu.tw` 帳號者，請至 [臺大計中](https://web4.cc.ntu.edu.tw/p/s/login3/p1.php) 申請。
+#### 使用 `g.ntu.edu.tw` 登入
+請使用您的 `g.ntu.edu.tw` 帳號登入 Dzoo NTU。
+無 `g.ntu.edu.tw` 帳號者，請至 [國立臺灣大學計算機及資訊網路中心](https://web4.cc.ntu.edu.tw/p/s/login3/p1.php) 申請。
+
+#### 使用自己的 Gmail + 綁定 NTU Mail
+使用自己最常使用的「Google 帳號」登入 Dzoo NTU，並依照指示綁定自己的「臺大學號信箱」。
+
+> 每個學號僅能綁定一組帳號。
 
 ### 課程業師
 請使用您個人最常使用之 Google 帳號登入，並聯絡您服務單位申請帳號開通權限。
