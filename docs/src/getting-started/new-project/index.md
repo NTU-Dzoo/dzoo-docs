@@ -1,15 +1,16 @@
 ## 新增 Dzoo 專案
 
-> 嗨！恭喜你已經有一些成果可以跟大家分享啦！🥳
+嗨！恭喜你已經有一些成果可以跟大家分享啦！🥳
 
 ### 登入 Dzoo NTU
 請到 [Dzoo NTU](https://dzoo.ntu.edu.tw/account/login) 登入，點擊「 **使用 Google 帳號登入** 」。
 
 視窗彈出之後，請務必使用 `ntu.edu.tw` 結尾信箱登入，確保系統能夠正確開通你的帳號。
 
-> 任何以 `ntu.edu.tw` 結尾信箱皆可驗證，例如：`csie.ntu.edu.tw`。 <br>
-> 如有學號信箱請優先使用，這樣有利於系統辨識您的系所資料。
-
+::: tip
+任何以 `ntu.edu.tw` 結尾信箱皆可以驗證，例如：`csie.ntu.edu.tw`。 <br />
+如有學號信箱請優先使用，這樣有利於系統辨識您的系所資料。
+:::
 ![Dzoo Login](/images/getting-started/new-project/LoginDzoo.png)
 
 ### 新增 Project
@@ -20,24 +21,26 @@
 ### 專案名稱
 請填入您的專案名稱。
 
-> 名稱不建議大於 **10** 個字。<br>
-> 以「 **專案名稱 - Slogan** 」作為命名規則，有助於 SEO Indexing。
-
+::: tip
+名稱不建議大於 **10** 個字，並以「 **專案名稱 - Slogan** 」作為命名規則，有助於 SEO Indexing。
+::: 
 ![Project Name](/images/getting-started/new-project/ProjectName.png)
 
 ## 編輯專案
 恭喜你，已經完成一半了！🥳
 
-> ⚠️ 注意！任何更動將會自動儲存！<br>
-> ⚠️ 注意！任何更動將會自動儲存！<br>
-> ⚠️ 注意！任何更動將會自動儲存！
+::: tip
+⚠️ 注意！任何更動將會自動儲存！
+:::
 
 ### 上傳 Logo 與封面照片
-> 照片不可以超過 500kb。<br>
-> 照片建議使用 JPEG/PNG 格式。
-
+::: tip
+照片不可以超過 500kb，並建議使用 `JPEG/PNG` 格式。
+:::
 ### 新增專案簡介
-> 建議不要超過 50 個字。You know, elevator pitch!
+::: tip
+建議不要超過 50 個字。You know, elevator pitch!
+:::
 
 ### 設定專案類型
 **Dzoo NTU** 目前支援以下兩種專案類型：
@@ -73,8 +76,10 @@
 ***一個人可以走得很快，一群人可以走得很遠。***
 
 你可以邀請你的成員加入這個專案，這樣他們也會出現在專案頁面上！看起來也會增加專案可行性。
-> 請確保該成員已經註冊 **Dzoo NTU**。<br>
-> 請確保該成員為具備臺大身份（使用 `g.ntu.edu.tw` 註冊）。
+
+::: tip
+請確保該成員已經註冊 **Dzoo NTU**，且該成員 **必須** 具備 **國立臺灣大學** 身份。
+:::
 
 ![Member Invitation](/images/getting-started/new-project/Invitation.png)
 

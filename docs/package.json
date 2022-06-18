@@ -18,7 +18,6 @@
   },
   "dependencies": {
     "vuepress-plugin-seo": "^0.2.0",
-    "vuepress-plugin-sitemap": "^2.3.1",
-    "vuepress-theme-antdocs": "1.4.3"
+    "vuepress-plugin-sitemap": "^2.3.1"
   }
 }

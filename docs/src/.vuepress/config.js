@@ -31,8 +31,6 @@ module.exports = {
     docsDir: '',
     editLinkText: '',
     lastUpdated: false,
-    search: false,
-    backToTop: true,
     nav: [
       {
         text: '開始使用 Dzoo',
@@ -50,8 +48,6 @@ module.exports = {
     sidebar: {
     }
   },
-
-  theme: 'antdocs',
 
   /**
    * Apply plugins，ref：https://v1.vuepress.vuejs.org/zh/plugin/

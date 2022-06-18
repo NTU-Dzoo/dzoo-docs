@@ -31,4 +31,6 @@
 #### 發佈個人檔案（Profile）
 一切都填寫完成後，就可以發佈啦！
 
-> 原則上會以 **學號** 當作個人連結，即是：**https://dzoo.ntu.edu.tw/profiles/學號**。
+::: tip
+原則上會以 **學號** 當作個人連結，即是：**https://dzoo.ntu.edu.tw/profiles/學號**。
+:::
