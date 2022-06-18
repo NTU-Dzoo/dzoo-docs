@@ -17,7 +17,8 @@ module.exports = {
     ['meta', { name: 'theme-color', content: '#F0FDF4' }],
     ['meta', { name: 'apple-mobile-web-app-capable', content: 'yes' }],
     ['meta', { name: 'apple-mobile-web-app-status-bar-style', content: 'black' }],
-    ['meta', { name: 'og:image', content: '/images/default-ogimage.jpg' }]
+    ['meta', { name: 'og:image', content: '/images/default-ogimage.jpg' }],
+    ['link', { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@400;500;700&display=swap' }]
   ],
 
   /**
